@@ -55,3 +55,5 @@ is the shell command that performs the conversion. The value `$in` will be
 replaced with the name of the file to convert and `$out` will be replaced with the
 computed name of the converted file. You shouldn't need to escape either of
 these names.
+
+You can specify as many converters as you want.
